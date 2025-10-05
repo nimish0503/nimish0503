@@ -35,4 +35,4 @@ I'm passionate about solving real-world problems with data, automation, and scal
 
 ---
 
-## 🚀 Let's connect, build, and grow together!
+## 🚀 Let’s connect, create, and push the boundaries of Data & AI together!
